@@ -68,7 +68,7 @@ function App() {
             <a href="https://www.linkedin.com/in/durga-prasad-9a6b87265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-slate-400 hover:text-blue-400 transition-colors p-3 hover:bg-slate-800 rounded-full">
               <Linkedin className="w-6 h-6" />
             </a>
-            <a href="mailto:durgaprasad91918@hmail.com" className="text-slate-400 hover:text-purple-400 transition-colors p-3 hover:bg-slate-800 rounded-full">
+            <a href="mailto:durgaprasad91918@gmail.com" className="text-slate-400 hover:text-purple-400 transition-colors p-3 hover:bg-slate-800 rounded-full">
               <Mail className="w-6 h-6" />
             </a>
           </div>
