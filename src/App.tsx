@@ -270,7 +270,7 @@ function App() {
         <Github className="w-10 h-10" />
       </a>
       <a
-        href="https://www.linkedin.com/in/your-linkedin-username"
+        href="https://www.linkedin.com/in/durga-prasad-9a6b87265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         className="text-slate-400 hover:text-blue-400 transition-colors p-4 hover:bg-slate-800 rounded-full"
         target="_blank"
         rel="noopener noreferrer"
@@ -278,7 +278,7 @@ function App() {
         <Linkedin className="w-10 h-10" />
       </a>
       <a
-        href="mailto:your.email@example.com"
+        href="mailto:durgaprasad91918@gmail.com"
         className="text-slate-400 hover:text-purple-400 transition-colors p-4 hover:bg-slate-800 rounded-full"
       >
         <Mail className="w-10 h-10" />
